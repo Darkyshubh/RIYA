@@ -77,7 +77,8 @@ Watch Video in Full Screen For Better Quality
 
 ### Check this Article 
 
-- https://dontkillmyapp.com/
+- part 1 = https://youtu.be/-nrw-CxFJAs?si=9XXLqbuwSKcUmO7k
+- part 2 = https://youtu.be/UV6NfNF7ln0?si=IFQrKXTrYgG-H8-B
 
 
 --- 
