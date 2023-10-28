@@ -89,14 +89,14 @@ Watch Video in Full Screen For Better Quality
 
 --- 
 ## Disclaimer
-<b>Swagkarna Provides no warranty and will not be responsible for any direct or indirect damage caused by this tool.<br>
+<b>Dark Provides no warranty and will not be responsible for any direct or indirect damage caused by this tool.<br>
 Rafel-Rat is built for Educational and Internal use ONLY.</b>
 
 ---
 
 ## Contact :
-<a href=mailto:swagkarna@gmail.com><img src="https://img.shields.io/badge/Gmail-swagkarna-green?style=for-the-badge" /></a>
-<a href=https://twitter.com/swagkarna><img src="https://img.shields.io/badge/Twitter-@swagkarna-blue?style=for-the-badge" /></a>
+<a href=mailto:swagkarna@gmail.com><img src="https://img.shields.io/badge/Telegram-swagkarna-green?style=for-the-badge" /></a>
+<a href=https://twitter.com/swagkarna><img src="https://img.shields.io/badge/Instagram-@swagkarna-blue?style=for-the-badge" /></a>
 
 
 ---    
