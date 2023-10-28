@@ -1,7 +1,7 @@
 <?php
 session_start();
-$panel_username = 'Hande';
-$panel_password = 'Ercel';
+$panel_username = 'shubh';
+$panel_password = 'dark';
 
 function logout(){
     $_SESSION = [];
