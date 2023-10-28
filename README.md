@@ -95,7 +95,7 @@ Rafel-Rat is built for Educational and Internal use ONLY.</b>
 ---
 
 ## Contact :
-<a href=mailto:@DarkShubh><img src="https://img.shields.io/badge/Telegram-swagkarna-green?style=for-the-badge" /></a>
+<a href=@DarkShubh><img src="https://img.shields.io/badge/Telegram-@DarkShubh-green?style=for-the-badge" /></a>
 
 
 ---    
