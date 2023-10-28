@@ -48,7 +48,7 @@ if (isset($_POST['inputUsername']) && isset($_POST['inputPassword'])){
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-4 col-lg-offset-4">
-                <a class="navbar-brand" href="index.php">RAPTOR Login Panel</a>
+                <a class="navbar-brand" href="index.php">Riya Login Panel</a>
             </div>
         </div>
     </div>
@@ -95,7 +95,7 @@ if (isset($_POST['inputUsername']) && isset($_POST['inputPassword'])){
 
     <div class="row tall-row">
         <div class="col-md-offset-8">
-            <p>Created by <a href="#">Mehmet Şirin Sulan</a>. &copy; 2021</p>
+            <p>Created by <a href="#">DARKSHUBH</a>. &copy; 2023</p>
         </div>
     </div>
 
