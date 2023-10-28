@@ -106,7 +106,7 @@ Rafel-Rat is built for Educational and Internal use ONLY.</b>
 <h2 align="center">Inspired From Raptor-Rat</h2>
 
 ---
-### ❤️Supporters
+###
 
 ---
                         
